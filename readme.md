@@ -12,7 +12,8 @@ Note that the original [processing-tool-template repository](http://code.google.
 
 Up-to-date instructions can be found on the [processing-wiki](http://code.google.com/p/processing/wiki/ToolTemplate).
 
-Make sure to copy `build.properties.tmpl` to `build.properties` and customize the paths to match your system.
+The build process has been slightly modified.
+You need to copy `local.properties.tmpl` to `local.properties` and customize the paths to match your system.
 
 ### License
 

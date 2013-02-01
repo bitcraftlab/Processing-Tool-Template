@@ -1,4 +1,4 @@
 /distribution/*
-/resources/build.properties
+/resources/local.properties
 .classpath
 .project
